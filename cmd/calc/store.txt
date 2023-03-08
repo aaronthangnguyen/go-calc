@@ -1,0 +1,1 @@
+[{"operator":0,"value":1},{"operator":0,"value":1},{"operator":2,"value":10}]
